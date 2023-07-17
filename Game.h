@@ -8,4 +8,5 @@ public:
 private:
 	void clearScreen(char);
 	int drawMenu(int);
+	int drawMainBoard();
 };
